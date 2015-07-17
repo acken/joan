@@ -1,0 +1,31 @@
+## Requirements
+
+node - https://nodejs.org/download/
+npm - https://nodejs.org/download/
+git - https://git-scm.com/
+
+If you are new to git just have a look at this: 
+http://rogerdudler.github.io/git-guide/.
+Just follow the instructions down to the push and
+pull command.
+
+## Getting started
+Get the code by cloning this repository
+
+To install dependencies and required software run the following commands
+Installing webpack and nodemon form the terminal
+* npm install webpack nodemod -g
+
+Installing website dependencies.
+Inside the client directory run the following commands
+* npm install
+* webpack
+
+Install web server dependencies.
+Inside the server directory run the following command
+* npm install
+
+## Starting the webserver and trying it out.
+Inside the server folder run the following command: node index.js. This
+starts the webserver and it is ready to accept requests. Open a browser
+and go to http://localhost:4000 and you should have it working.

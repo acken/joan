@@ -1,0 +1,14 @@
+*~
+*.swp
+*.pyc
+~$*
+*.sublime-project
+*.sublime-workspace
+.OpenIDE/active.profile
+oi-definitions.json
+node_modules
+config.js
+client/build/images
+client/build/bundle.js
+bin
+ob
