@@ -1,3 +1,7 @@
+This is just a boilerplate project with a tiny web server with a website
+using node, npm and webpack.
+
+
 ## Requirements
 
 node - https://nodejs.org/download/
@@ -17,7 +21,8 @@ Installing webpack and nodemon form the terminal
 * npm install webpack nodemod -g
 
 Installing website dependencies.
-Inside the client directory run the following commands
+Inside the client directory run the following commands. These commands
+will install the website dependencies and build the website.
 * npm install
 * webpack
 
