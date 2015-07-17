@@ -18,7 +18,7 @@ Get the code by cloning this repository
 
 To install dependencies and required software run the following commands
 Installing webpack and nodemon form the terminal
-* npm install webpack nodemod -g
+* npm install webpack nodemon -g
 
 Installing website dependencies.
 Inside the client directory run the following commands. These commands
